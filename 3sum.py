@@ -32,4 +32,4 @@ class Solution(object):
 
 
 solution = Solution()
-solution.threeSum([0,0,0])
+solution.threeSum([-1,0,1,2,-1,-4])
